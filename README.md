@@ -8,6 +8,6 @@ Here’s a summary of the AG2 Project governance process:
 - Voting and Decision Making: Decisions will aim for consensus; if not possible, a majority vote will be used. Major decisions require AG2AI's approval.
 - Trademark Use: Guidelines govern how the AG2 trademarks can be used to maintain quality reputation and prevent confusion about sources.
 - Open Contribution Process: Contributors must submit original work and secure permission from employers if necessary. Contributions are not confidential.
-- Ethics: We adheres to a robust set of ethical principles developed and maintained by our community. 
+- Ethics: We adheres to a robust set of [ethical principles](./org-docs/ETHICS.md) developed and maintained by our community. 
 
 Read more details in the [Charter](./org-docs/CHARTER.md) of AG2.

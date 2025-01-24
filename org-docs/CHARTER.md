@@ -34,7 +34,7 @@ To become the go-to Open Source Operating System for AI Agents.
 - Changing the Antitrust Policy for the Project in any material way
 - Commercial monetization strategy for the Project
 
-Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made by a 3/4 majority of the Technical Steering Committee and the approval of AG2AI, Inc.  
+Amendments to this charter, the [antitrust policy](ANTITRUST.md), the [trademark policy](TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made by a 3/4 majority of the Technical Steering Committee and the approval of AG2AI, Inc.  
 
 ## 4. Termination of Membership
 
@@ -50,11 +50,11 @@ In addition to the method set out in section 2.4, the membership of a Technical 
 
 ## 5. Trademarks
 
-The use of any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Project’s activities (the "Marks"), is governed by a trademark policy to be adopted by the Technical Steering Committee and posted publicly, the initial version of which is attached to this document (./TRADEMARKS.md). 
+The use of any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Project’s activities (the "Marks"), is governed by a trademark policy to be adopted by the Technical Steering Committee and posted publicly, the initial version of which is attached to this document: [TRADEMARKS](./TRADEMARKS.md). 
 
 ## 6. Antitrust Policy
 
-The Technical Steering Committee is bound by the Project's Antitrust Policy, the current version of which is attached to this document (./ANTITRUST.md).
+The Technical Steering Committee is bound by the Project's Antitrust Policy, the current version of which is attached to this document [ANTITRUST](./ANTITRUST.md).
 
 ## 7. No Confidentiality
 
