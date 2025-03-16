@@ -1,8 +1,8 @@
-# Ethics Statement for AG2
+# Open Source Agentics Statement
 
-At AG2, we are committed to building agentic systems that reflect humanity’s highest values—prioritizing safety, fairness, and empowerment—while addressing the inherent complexities of agentic AI and ethical decision-making. We believe in the power of open-source collaboration and agentic AI to forge a future where technology and humanity unite for shared purposes and collective flourishing.
+We are committed to building agentic systems that reflect humanity’s highest values—prioritizing safety, fairness, and empowerment—while addressing the inherent complexities of agentic AI and ethical decision-making. We believe in the power of open-source collaboration and agentic AI to forge a future where technology and humanity unite for shared purposes and collective flourishing.
 
-**Our Core Principles**
+**Open Source Agentics Core Principles**
  
 - Prevent Harm: Our agentic systems are designed to detect and alert on potential harm and minimize unintended consequences.
     
